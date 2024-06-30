@@ -1,4 +1,4 @@
-# Hi there, I'm David Alejandro Sequera Liévano! 👋
+# Hi there, I'm David Sequera! 👋
 
 ### Business and Data Engineer
 
@@ -43,15 +43,9 @@ I'm passionate about data management and leveraging insightful information to en
   - **Cloud:** AWS, GCP 
   - **ML:** MLflow, Keras, TensorFlow, PyTorch 
   - **Software:** NodeJS, FastAPI, Spring, MongoDB
-
-**Business Skills:**
-- Product Marketing, Growth Marketing, Marketing Research
-
+  - 
 **Languages:**
 - English (fluent), Spanish (native), German (intermediate)
-
-**Soft Skills:**
-- Assertive communication, Innovation, Creativity, Leadership, Culture awareness, Resilience, Design Thinking, Growth mindset, Storytelling
 
 ## 🎸 Hobbies
 
