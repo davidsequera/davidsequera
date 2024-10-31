@@ -4,6 +4,10 @@
 
 I'm passionate about data management and leveraging insightful information to enhance customer experiences. With a strong foundation in artificial intelligence, data science, digital marketing, and business strategy, I aim to create impactful solutions through innovative thinking and technical expertise.
 
+### Working
+
+I am working at uber as a operations interns in Colombia
+
 ## 📫 Contact Me
 
 - **Email:** [davidsequera.bs@gmail.com](mailto:davidsequera.bs@gmail.com)
