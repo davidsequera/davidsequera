@@ -47,7 +47,7 @@ I am working at uber as a operations interns in Colombia
   - **Cloud:** AWS, GCP 
   - **ML:** MLflow, Keras, TensorFlow, PyTorch 
   - **Software:** NodeJS, FastAPI, Spring, MongoDB
-  - 
+    
 **Languages:**
 - English (fluent), Spanish (native), German (intermediate)
 
