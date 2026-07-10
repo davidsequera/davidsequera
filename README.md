@@ -6,7 +6,7 @@ I'm passionate about data management and leveraging insightful information to en
 
 ### Working
 
-I am working at uber as a operations interns in Colombia
+I am working at uber in Colombia
 
 ## 📫 Contact Me
 
